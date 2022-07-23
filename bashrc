@@ -7,6 +7,7 @@ export PATH="/home/comrade/home/scripts:$PATH"
 #custom alias
 alias f='xdg-open "$(fzf)"'
 alias o='xdg-open'
+alias la='ls -A'
 
 
 #colorfull man pages
